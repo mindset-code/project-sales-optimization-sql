@@ -94,7 +94,7 @@ sqlite3 sales.db
 ## Links
 
 - **Portfolio:** [proyectos-personales.web.app](https://proyectos-personales.web.app)
-- **LinkedIn:** [Mindset & Code](https://www.linkedin.com/company/mindset-code/?locale=en_US)
+- **LinkedIn:** [Mindset & Code](https://www.linkedin.com/company/mindset-code)
 - **Email:** contacto@mindset-code.com
 
 ---
