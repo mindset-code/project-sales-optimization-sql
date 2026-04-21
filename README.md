@@ -1,28 +1,102 @@
-# 📈 Proyecto 3: Optimización de Rendimiento de Ventas con SQL y BI
+# Sales Optimization SQL — Business Intelligence Portfolio
 
-## Resumen del Proyecto
-Este proyecto demuestra mi capacidad para utilizar **SQL** para la extracción y análisis de datos de ventas, y mi comprensión de **Business Intelligence (BI)** para generar *insights* de negocio. El objetivo es analizar el rendimiento de ventas y la rentabilidad para informar decisiones estratégicas en el área comercial, lo cual se alinea perfectamente con mi experiencia previa en **SalesOps/RevOps**.
+> **BI / RevOps Portfolio Project** · SQL · Sales Performance · Profitability
+> **Status:** Finished · Portfolio showcase (2026-04)
 
-## Habilidades Demostradas
-*   **SQL Avanzado:** Uso de funciones de agregación (`SUM`, `AVG`), agrupamiento (`GROUP BY`) y filtrado (`HAVING`) para análisis de negocio.
-*   **Business Intelligence:** Definición de métricas clave (Ingreso Total, Margen de Beneficio, Rendimiento por Vendedor).
-*   **Análisis de Rentabilidad:** Identificación de áreas de alto y bajo rendimiento.
-*   **Data Storytelling:** Preparación de datos para la visualización en herramientas como Power BI o Tableau.
+[![Portfolio](https://img.shields.io/badge/Portfolio-proyectos--personales.web.app-60a5fa?style=for-the-badge&logo=firebase&logoColor=white)](https://proyectos-personales.web.app)
+[![SQL](https://img.shields.io/badge/Language-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](.)
+[![BI](https://img.shields.io/badge/Target-Power%20BI%20%7C%20Tableau-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](.)
 
-## Estructura del Repositorio
-*   `sales_data.csv`: Conjunto de datos sintéticos de 10,000 registros de ventas.
-*   `generate_data.py`: Script utilizado para generar los datos.
-*   `sales_analysis.sql`: Archivo que contiene las 5 consultas SQL clave para el análisis de rendimiento y rentabilidad.
+---
 
-## Hallazgos Clave (Basado en las Consultas SQL)
-Las consultas SQL permiten identificar rápidamente:
-1.  **Regiones más rentables** y su margen de beneficio.
-2.  Los **vendedores de alto rendimiento** que requieren reconocimiento o replicación de sus estrategias.
-3.  La **tendencia de ventas** a lo largo del tiempo para detectar estacionalidades.
-4.  Productos o categorías con **bajo margen de beneficio** que necesitan una revisión de precios o costos.
+## Project Status
 
-## Cómo Ejecutar
-1.  Clonar el repositorio.
-2.  Cargar el archivo `sales_data.csv` en cualquier base de datos SQL (SQLite, PostgreSQL, MySQL).
-3.  Ejecutar las consultas del archivo `sales_analysis.sql` para obtener los *insights*.
-4.  (Opcional) Conectar la base de datos a Power BI o Tableau para crear un *dashboard* de ventas.
+| Phase | Status |
+|---|---|
+| Synthetic dataset (10,000 sales records) | Done |
+| 5 analytical SQL queries | Done |
+| Business findings documentation | Done |
+| Ready for Power BI / Tableau connection | Done |
+
+**Current phase:** portfolio showcase — listo para reutilizar en dashboards BI.
+
+---
+
+## Project Overview
+
+Análisis de rendimiento de ventas y rentabilidad usando **SQL** puro y principios de **Business Intelligence** para generar *insights* de negocio. Alineado con experiencia previa en **SalesOps / RevOps**: identifica regiones rentables, vendedores estrella, estacionalidades y productos con bajo margen.
+
+Las consultas están diseñadas para conectarse directamente a **Power BI** o **Tableau** como fuente de un dashboard comercial.
+
+---
+
+## Skills Demostradas
+
+- **SQL Avanzado:** agregaciones (`SUM`, `AVG`), agrupamiento (`GROUP BY`) y filtrado (`HAVING`)
+- **Business Intelligence:** definición de métricas clave (Ingreso Total, Margen de Beneficio, Rendimiento por Vendedor)
+- **Análisis de Rentabilidad:** identificación de áreas de alto y bajo rendimiento
+- **Data Storytelling:** preparación de datos para visualización en Power BI / Tableau
+- **RevOps mindset:** conectar métricas técnicas a decisiones de negocio
+
+---
+
+## Hallazgos Clave
+
+1. **Regiones más rentables** y su margen de beneficio
+2. **Vendedores de alto rendimiento** que merecen reconocimiento o replicación de sus estrategias
+3. **Tendencia de ventas** a lo largo del tiempo y patrones de estacionalidad
+4. **Productos o categorías con bajo margen** que requieren revisión de precios o costos
+
+---
+
+## Tech Stack
+
+| Layer | Technology |
+|---|---|
+| Query language | SQL (portable: SQLite, PostgreSQL, MySQL) |
+| Data generation | Python 3.12, Pandas |
+| BI target | Power BI · Tableau |
+
+---
+
+## Repository Structure
+
+```
+project-sales-optimization-sql/
+├── sales_data.csv           # 10,000 registros sintéticos de ventas
+├── generate_data.py         # generador del dataset
+└── sales_analysis.sql       # 5 queries de análisis y rentabilidad
+```
+
+---
+
+## How to Run
+
+```bash
+# 1. Clonar el repositorio
+git clone https://github.com/mindset-code/project-sales-optimization-sql.git
+cd project-sales-optimization-sql
+
+# 2. Cargar el CSV en SQLite / PostgreSQL / MySQL
+# (ejemplo con SQLite)
+sqlite3 sales.db
+.mode csv
+.import sales_data.csv sales
+
+# 3. Ejecutar las queries
+.read sales_analysis.sql
+
+# 4. (Opcional) Conectar la DB a Power BI o Tableau
+```
+
+---
+
+## Links
+
+- **Portfolio:** [proyectos-personales.web.app](https://proyectos-personales.web.app)
+- **LinkedIn:** [Mindset & Code](https://www.linkedin.com/company/mindset-code/?locale=en_US)
+- **Email:** contacto@mindset-code.com
+
+---
+
+*Built by [Mindset & Code](https://github.com/mindset-code) · Data & BI Analyst · MBA · ISC2 CC*
