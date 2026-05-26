@@ -5,7 +5,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-proyectos--personales.web.app-60a5fa?style=for-the-badge&logo=firebase&logoColor=white)](https://proyectos-personales.web.app)
 [![SQL](https://img.shields.io/badge/Language-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](.)
-[![BI](https://img.shields.io/badge/Target-Power%20BI%20%7C%20Tableau-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](.)
+[![Wiki](https://img.shields.io/badge/Wiki-Documentación-38bdf8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mindset-code/project-sales-optimization-sql/wiki)
 
 ---
 
@@ -93,6 +93,7 @@ sqlite3 sales.db
 
 ## Links
 
+- **Wiki:** [Documentación técnica](https://github.com/mindset-code/project-sales-optimization-sql/wiki)
 - **Portfolio:** [proyectos-personales.web.app](https://proyectos-personales.web.app)
 - **LinkedIn:** [Mindset & Code](https://www.linkedin.com/company/mindset-code)
 - **Email:** contacto@mindset-code.com
