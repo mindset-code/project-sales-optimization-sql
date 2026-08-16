@@ -6,7 +6,7 @@
 
 > 🇬🇧 **English version first.** · 🇪🇸 **La versión en español está más abajo** → [ir a Español](#-español).
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-proyectos--personales.web.app-60a5fa?style=for-the-badge&logo=firebase&logoColor=white)](https://proyectos-personales.web.app)
+[![Ficha del proyecto](https://img.shields.io/badge/Ficha%20del%20proyecto-mindset--code.com-2c4a6e?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://mindset-code.com/es/codigo)
 [![Stack](https://img.shields.io/badge/Stack-SQL%20%C2%B7%20Python%20%C2%B7%20BI-336791?style=for-the-badge&logo=postgresql&logoColor=white)](.)
 [![Domain](https://img.shields.io/badge/Domain-Business%20Intelligence-16a34a?style=for-the-badge)](.)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
@@ -76,8 +76,8 @@ project-sales-optimization-sql/
 
 Released under the **[MIT License](LICENSE)**.
 
-- **Portfolio:** [proyectos-personales.web.app](https://proyectos-personales.web.app)
-- **LinkedIn:** [Mindset & Code](https://www.linkedin.com/company/mindset-code)
+- **Portfolio:** [proyectos-mindset-code.web.app](https://proyectos-mindset-code.web.app)
+- **Web:** [mindset-code.com](https://mindset-code.com/es)
 - **Email:** contacto@mindset-code.com
 
 ---
@@ -157,10 +157,10 @@ project-sales-optimization-sql/
 
 Publicado bajo la **[Licencia MIT](LICENSE)**.
 
-- **Portafolio:** [proyectos-personales.web.app](https://proyectos-personales.web.app)
-- **LinkedIn:** [Mindset & Code](https://www.linkedin.com/company/mindset-code)
+- **Portafolio:** [proyectos-mindset-code.web.app](https://proyectos-mindset-code.web.app)
+- **Web:** [mindset-code.com](https://mindset-code.com/es)
 - **Email:** contacto@mindset-code.com
 
 ---
 
-*Built by [Mindset & Code](https://github.com/mindset-code) · Data & BI Analyst · MBA · ISC2 CC*
+*Mindset & Code · asesoría fiscal y tecnológica · [mindset-code.com](https://mindset-code.com/es)*
