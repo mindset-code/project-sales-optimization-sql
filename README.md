@@ -11,6 +11,10 @@
 [![Domain](https://img.shields.io/badge/Domain-Business%20Intelligence-16a34a?style=for-the-badge)](.)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 
+[![SQL profitability analysis running: revenue and profit by region with derived margin](docs/captura.jpg)](https://proyectos-mindset-code.web.app/sql)
+
+*[Open the live demo](https://proyectos-mindset-code.web.app/sql)*
+
 ---
 
 ## The problem this solves
